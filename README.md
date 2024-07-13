@@ -8,5 +8,5 @@ Welcome to the repository containing Python exercise solutions from the Code PTI
 ## References
 Here are some references to help you with Python programming: 
 - **w3schools**(https://www.w3schools.com/python/default.asp)
-- **DSA with Python**(https://bom.so/wvZqeW)
+- **DSA with Python**(https://bom.so/sEU5ej)
 - **HackerRank Python**(https://bom.so/wbfXZD)
